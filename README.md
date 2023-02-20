@@ -12,7 +12,7 @@ Todo list:
 - [ ] Heart Beat checks
 
 - [ ] Docker Control
-  - [ ] Shell command support
+  - [X] Shell command support
   - [ ] Form inputs to 
     - [ ] Create a docker container
     - [ ] Edit a docker container
